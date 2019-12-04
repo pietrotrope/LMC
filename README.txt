@@ -70,11 +70,3 @@ l'indirizzo deve essere assoluto.
 input è la lista (in ordine cronologico) di valori presenti nella coda di input
 
 Output vedrà ad essa associata la coda di output dello stato finale del LMC.
-
-
-== Conclusioni ==
-
-Il progetto è stato sviluppato per il corso di laurea triennale in informatica
-Università degli studi Milano Bicocca, A.A. 2018-2019. 
-corso di Linguaggi di programmazione, appello di Gennaio 2019.
-Docenti: Marco Antoniotti, Luca Manzoni, Gabriella Pasi.
